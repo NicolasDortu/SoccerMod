@@ -1,0 +1,14 @@
+{
+  "item.soccermod.cara": "Carapils",
+  "item.soccermod.jupiler": "Jupiler",
+  "item.soccermod.soccerball": "Soccer Ball",
+  "item.soccermod.redcard": "Red Card",
+  "item.soccermod.yellowcard": "Yellow Card",
+  "item.soccermod.whistle": "Whistle",
+
+  "entity.soccermod.soccerball_entity": "Soccer Ball",
+
+  "effect.soccermod.drunk" : "Drunk",
+
+  "creativetab.soccer_tab": "Soccer Mod"
+}
