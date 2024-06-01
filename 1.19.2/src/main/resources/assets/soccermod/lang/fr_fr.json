@@ -1,0 +1,16 @@
+{
+  "item.soccermod.cara": "Carapils",
+  "item.soccermod.jupiler": "Jupiler",
+  "item.soccermod.soccerball": "Ballon d'foot",
+  "item.soccermod.redcard": "Carton rouge",
+  "item.soccermod.yellowcard": "Carton jaune",
+  "item.soccermod.whistle": "Sifflet",
+
+
+  "entity.soccermod.soccerball_entity": "Ballon d'foot",
+
+  "effect.soccermod.drunk" : "Alcoolisé",
+
+
+  "itemGroup.soccer_tab": "Soccer Mod"
+}

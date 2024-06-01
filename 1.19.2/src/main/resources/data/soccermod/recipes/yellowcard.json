@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    }
+  },
+  "result": {
+    "item": "soccermod:yellowcard",
+    "count": 1
+  }
+}

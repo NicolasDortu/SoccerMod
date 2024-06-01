@@ -1,0 +1,29 @@
+{
+    "cara_sound": {
+      "category": "player",
+      "sounds": [
+        {
+          "name": "soccermod:cara_sound",
+          "stream": true
+        }
+      ]
+    },
+    "kick_ball": {
+      "category": "player",
+      "sounds": [
+        {
+          "name": "soccermod:kick_ball",
+          "stream": false
+        }
+      ]
+    },
+    "whistle": {
+      "category": "player",
+      "sounds": [
+        {
+          "name": "soccermod:whistle",
+          "stream": false
+        }
+      ]
+    }
+  }
